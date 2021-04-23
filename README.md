@@ -3,12 +3,7 @@ Checks if account credentials are registered on arlo.com. The main purpose of a 
 
 ## Usage
 1) Install the [CPR](https://github.com/whoshuu/cpr) and [JSON](https://github.com/nlohmann/json) library — [vcpkg](https://github.com/Microsoft/vcpkg) is a great package manager.
-2) Create a file called `combos.txt` and paste account credentials in there with the following format:
-```
-user@mail.com:passw0rd
-john@gmail.com:J0hn123
-hailey123@hotmail.com:Haily321!
-```
+2) Paste account credentials in `combos.txt` with the `email:password` format seperated by newline characters.
 4) Compile, and run!
 
 ## Contribute
