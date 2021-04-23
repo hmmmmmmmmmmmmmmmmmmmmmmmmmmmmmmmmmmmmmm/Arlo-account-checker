@@ -69,8 +69,8 @@ void titleUpdater() {
 }
 
 int main() {
-    // Clears console and turns foreground color white.
-    system("cls && color f");
+    // Clears console, turns foreground color white and modifies the title.
+    system("cls && color f && title Arlo Checker");
 
     std::fstream file;
     file.open("combos.txt");
