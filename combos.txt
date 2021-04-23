@@ -1,0 +1,3 @@
+user@mail.com:passw0rd
+john@gmail.com:J0hn123
+hailey123@hotmail.com:Haily321!
